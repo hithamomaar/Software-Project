@@ -1,1 +1,1 @@
-# Software-Project
+# Galoot - Quiz-System
