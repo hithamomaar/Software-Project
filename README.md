@@ -1,1 +1,1 @@
-# Galoot - Quiz-System
+# Tree Sum - Quiz-System
